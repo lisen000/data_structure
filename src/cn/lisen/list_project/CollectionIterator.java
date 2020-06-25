@@ -1,5 +1,9 @@
 package cn.lisen.list_project;
 
+import java.util.Collection;
+import java.util.HashSet;
+import java.util.Iterator;
+
 public class CollectionIterator {
 	// JDK8 Iterable接口新增了一个forEach方法，参数是函数式接口类型，可使用Lambda表达式
 		// Iterable接口是Collection接口的父接口，可用forEach遍历集合元素
