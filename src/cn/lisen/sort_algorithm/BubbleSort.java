@@ -33,8 +33,8 @@ public class BubbleSort {
 					}
 
 				}		
-				int k =i+1;
-			//System.out.println("第"+k +"次排序后数组 :"+Arrays.toString(arr));
+//				int k =i+1;
+//			System.out.println("第"+k +"次排序后数组 :"+Arrays.toString(arr));
 			}
 			
 			
